@@ -1,0 +1,107 @@
+TIME This command is used to change the system time.
+Syntax-C :>TIMEJ
+Current time: - 11:45:12.84a
+Enter New time:-
+DATE This command is used to change the system date.
+Syntax-C:>DATEJ
+Current date is Fri. 10-15-2004
+Enter new date (mm-dd-yy):-
+VOL This command is used to see the label of volume
+Syntax-C :>VOLJ
+Volume in drive C is SKS
+Volume serial number is 313F-18F5
+LABEL This command is used to see the label of volume in "C" driver
+Syntax-C:>LABELJ
+Volume in drive C is SKS
+Volume serial number is 313F-18F5
+Volume label (11 characters, Enter for none)?-
+Or. (Prof.) S.K Shrivastava, MScP U )NET(CSIR-UGC). PhD (DUNPLCIC(IGNOU)
+VER This command is used to see the version number of the system
+Syntax-C:>VERJ
+Window 98[Version 4-10-2222]
+DIR This command is used to see the files and directory stored in the system. e.g.
+Hard disk
+Syntax- C :> DIRJ
+CLS This command is used to clear the screen.
+Syntax C:> CLSJ
+DIR/P This command is used to display the file and directory pause by pause on the
+SCreen and display massage. "Press any key to continue".
+Syntax C :> DIR/PJ
+DIR/W This command is used to display the file and directory on wide range.
+Syntax-C:> DIR/WJ
+DIR/B This command is used to display the file and directory without data time and
+size.
+Syntax -C :> DIR/B J
+DIR/AA This is command is used to show all archive files only.
+Syntax-C:>DIR/AAJ
+DIR/AH This command is used to show all hidden files only.
+Syntax-C:> DIR/AHJ
+DIR/AR This command is used to show all read only files.
+Syntax-C :> DIR/AR.J
+This command is used to show all system files only.
+Syntax-C:>DIR/ASJ
+DIR/AS
+COPY CON This command is used to create a file.
+Syntax-C:\>COPY o CON filename
+Press Ctrl Zz (^Z) to return to the C :> '
+REN Rename command is used to change the files name.
+Syntax-C:> REN o (Old file name) o (New file name)
+This command is used to see or display the contents of the file on the screen.
+Syntax-C :> TYPE file name
+TYPE
+Del or ERASE COMMAND is used to delete the unwanted files from disk.
+Syntax C:> DEL file name
+DEL
+oPrSK Sinassa MS U NETICSRUGO POoUNPOcaGNOU
+CERASE file name
+This command is used to renovate a directory from root directory Symax-C >RD directory namee
+RD
+This command used to see directory only
+Symtax- C:>DIR AD
+DIR AD
+DIRL This command is used to see directory in lower case.
+Syntax-C : DIRLJ
+DIRON This command is usced to see all directories in ascending order of primary name
+(a.-z)
+Syntax-C :> DIRON
+DIRON This command is to see all directory in descending order of primary name
+(za
+Syntax-C:> DIRO-NJ
+DIR OE This command is used to all directory in ascending order of extension name
+Syntax-C:> DIR/OE
+MD This command is used to make a directory.
+Syntar-C :> MD o directory namne
+CD This cormmand is used to change the directory for enury of a new directory.
+Syntar-C :>CD directory name
+C:> CD1 (Moving back to the root directory)
+DIRO-E This command is used to see all directorie in descending order of extension
+name.
+Syniax-C > DIR/O-E
+DIRS This command show all directory and subdirectory which is present at hard disk
+Syntax-C:>DIRS
+DIR OS This command shows the directory in ascending order of size.
+Syntax-C :> DIR OS
+This command shows the directory descending order of size.
+Syntax-C:> DIR/O-S
+DIR O-S
+This command shows the directory in ascending order of date and time.
+Syntax- C:> DIR/ODJ
+DIR OD
+Dr.(Prof.) S.K. Shrivastava, MSc(P.U.),NET(CSIR-UGC). PhD.(DUNPL)CIC(IGNOU)
+This command show the directory in descending order of date and time.
+Syntax-C:>DIR/0-DJ
+DIR/O-D
+DIR o* This command shows all files.
+Exe -to show file with extension name EXE
+Syntax-C:>DIR e *.*
+Ex-C :> DIR o *.EXE
+C: DIRo*.TXT
+DIR o A* This command show all directory and files starting with A.
+Syntax-C:>DIR o A*. *
+C:>DIR Bo**
+C:. DIRe C**
+This command is used to copy single file or group file from another file.i.e. to
+make copies of disk files.
+COPY
+Syntax: -C:> (COPY source file) (Target file name)
+C: (Old file 1) +(Old file 2) (New file) 
